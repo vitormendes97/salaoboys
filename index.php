@@ -140,7 +140,7 @@
                <!-- Section Headings -->
                <div class="split-section-headings left">
                   <div class="ssh-table">
-                     <div class="ssh-cell page-section bg-scroll" data-background="images/salaoboys/stacecilia.jpg"></div>
+                     <div class="ssh-cell page-section bg-scroll" data-background="images/salaoboys/higienopolis.jpg"></div>
                   </div>
                </div>
                <!-- End Section Headings -->
@@ -216,27 +216,24 @@
                      </div>
                   </div>
                   <!-- End Section Content -->
-                  <div class="col-md-6 mb-sm-40">
+                  <div class="col-md-6 mb-sm-40 salon-img-resposive">
                      <!-- Gallery -->
                      <div class="work-full-media mt-0 white-shadow">
                         <ul class="clearlist work-full-slider owl-carousel owl-theme owl-fixed" style="opacity: 1; display: block;">
                            <li>
-                              <img src="images/salaoboys/img_salao1.jpg" style="width: 100%;height:718px;" alt="">
+                              <img src="images/salaoboys/img_salao1.jpg" class="salon-img" style="width: 100%;height:718px;" alt="">
                            </li>
                            <li>
-                              <img src="images/salaoboys/img_salao2.jpg" style="width: 100%;height:718px;"   alt="">
+                              <img src="images/salaoboys/img_salao2.jpg" class="salon-img" style="width: 100%;height:718px;"   alt="">
                            </li>
                            <li>
-                              <img src="images/salaoboys/img_salao3.jpg" style="width: 100%;height:718px;"   alt="">
+                              <img src="images/salaoboys/img_salao3.jpg" class="salon-img" style="width: 100%;height:718px;"   alt="">
                            </li>
                            <li>
-                              <img src="images/salaoboys/img_salao4.jpg" style="width: 100%;height:718px;"   alt="">
+                              <img src="images/salaoboys/img_salao4.jpg" class="salon-img" style="width: 100%;height:718px;"   alt="">
                            </li>
                            <li>
-                              <img src="images/salaoboys/img_salao5.jpg" style="width: 100%;height:718px;"   alt="">
-                           </li>
-                           <li>
-                              <img src="images/salaoboys/img_salao6.jpg" style="width: 100%;height:718px;"   alt="">
+                              <img src="images/salaoboys/img_salao5.jpg" class="salon-img" style="width: 100%;height:718px;"   alt="">
                            </li>
                         </ul>
                      </div>
@@ -247,7 +244,7 @@
          </section>
          <!-- End Split Section -->
          <!-- Testimonials Section -->
-         <section class="page-section pt-50 pb-50 " data-background="images/salaoboys/oldman.jpg">
+         <section class="page-section pt-50 pb-50 " data-background="images/salaoboys/oldman.jpg" id="recomendacao">
             <div class="container relative" style="color:#fff;">
                <div class="row">
                   <div class="col-md-8 col-md-offset-2 align-center">
@@ -267,10 +264,40 @@
                      <div class="col-md-8 col-md-offset-2 align-center">
                         <blockquote class="testimonial white">
                            <p>
-                              Ótima barbearia em Santa Cecília, desde 1979 no mesmo endereço. Sempre aparo a barba na tesoura e faço o contorno na navalha.
+                              Lugar agradável, com profissionais excelentes!!! Cliente desde 1988, hoje atravesso a cidade para levar meu filho e encontrar meus amigos!!!
                            </p>
                            <footer class="testimonial-author" style="color:#fff;">
-                              Eduardo Egydio
+                              Marcelo Nunes Dos Santos
+                           </footer>
+                        </blockquote>
+                     </div>
+                  </div>
+
+               </div>
+               <div>
+                  <div class="row">
+                     <div class="col-md-8 col-md-offset-2 align-center">
+                        <blockquote class="testimonial white">
+                           <p>
+                              Ambiente agradável demais, recomendo a todos, muito detalhistas, alem de talentosos!
+                           </p>
+                           <footer class="testimonial-author" style="color:#fff;">
+                              Paulo Silva
+                           </footer>
+                        </blockquote>
+                     </div>
+                  </div>
+                  
+               </div>
+               <div>
+                  <div class="row">
+                     <div class="col-md-8 col-md-offset-2 align-center">
+                        <blockquote class="testimonial white">
+                           <p>
+                             Um salão excepcional, ótimos profissionais, bem localizado e com 37 anos de existência. Super indico!!!
+                           </p>
+                           <footer class="testimonial-author" style="color:#fff;">
+                              Eduardo Alencar
                            </footer>
                         </blockquote>
                      </div>
@@ -281,24 +308,24 @@
                      <div class="col-md-8 col-md-offset-2 align-center">
                         <blockquote class="testimonial white">
                            <p>
-                              O melhor salão de SP , com certeza !
+                              Excelente localização. Ótimos profissionais e, recomendo sem quaisquer restrições.
                            </p>
                            <footer class="testimonial-author" style="color:#fff;">
-                              Keyne Freitas
+                              Antonio G. Ansaldi 
                            </footer>
                         </blockquote>
                      </div>
                   </div>
                </div>
-               <div>
+                <div>
                   <div class="row">
                      <div class="col-md-8 col-md-offset-2 align-center">
                         <blockquote class="testimonial white">
                            <p>
-                              Trago meu pai sempre aqui. O melhor da região!!!
+                              Ambiente agradável e profissionais super capacitados. Recomendo!!!
                            </p>
                            <footer class="testimonial-author" style="color:#fff;">
-                              Sergio Cunha Jr
+                              Lucas Alencar
                            </footer>
                         </blockquote>
                      </div>
@@ -321,7 +348,7 @@
                <!-- Shop Item -->
                <div class="col-md-3 col-lg-3 mb-40">
                   <div class="post-prev-img">
-                     <a style="cursor:pointer;"><img src="images/shop/shop-prev-1.jpg" alt="" /></a>
+                     <a style="cursor:pointer;"><img src="images/salaoboys/profissionais/029.jpg" style="height: 300px" alt="" /></a>
                      <!--        <div class="intro-label">
                         <span class="label label-danger bg-red">Sale</span>
                         </div> -->
@@ -329,56 +356,56 @@
                   <div class="post-prev-title font-alt align-center">
                      <a style="cursor:pointer;">Caca</a>
                   </div>
-                  <div class="post-prev-text align-center mb-0" >
+                 <!--  <div class="post-prev-text align-center mb-0" >
                      <p style="text-align: justify !important;"> 
                         Líder da Barbearia, atuando há 27 anos como cabeleireiro e barbeiro em casa.
                      </p>
-                  </div>
+                  </div> -->
                </div>
                <!-- End Shop Item -->
                <!-- Shop Item -->
                <div class="col-md-3 col-lg-3 mb-40">
                   <div class="post-prev-img">
-                     <a style="cursor:pointer;"><img src="images/shop/shop-prev-2.jpg" alt="" /></a>
+                     <a style="cursor:pointer;"><img src="images/salaoboys/profissionais/030.jpg" style="height: 300px" alt="" /></a>
                   </div>
                   <div class="post-prev-title font-alt align-center">
                      <a style="cursor:pointer;">Diego</a>
                   </div>
-                  <div class="post-prev-text align-center mb-0">
+                  <!-- <div class="post-prev-text align-center mb-0">
                      <p style="text-align: justify !important;">
                         Barbeiro e cabeleireiro com especialidade em tendências jovens.
                      </p>
-                  </div>
+                  </div> -->
                </div>
                <!-- End Shop Item -->
                <!-- Shop Item -->
                <div class="col-md-3 col-lg-3 mb-40">
                   <div class="post-prev-img">
-                     <a style="cursor:pointer;"><img src="images/shop/shop-prev-3.jpg" alt="" /></a>
+                     <a style="cursor:pointer;"><img src="images/salaoboys/profissionais/034.jpg" style="height: 300px" alt="" /></a>
                   </div>
                   <div class="post-prev-title font-alt align-center">
                      <a style="cursor:pointer;">Carlos</a>
                   </div>
-                  <div class="post-prev-text align-center mb-0">
+                  <!-- <div class="post-prev-text align-center mb-0">
                      <p style="text-align: justify !important;">
                         Atua como cabeleireiro e barbeiro com especialidade em química masculina.
                      </p>
-                  </div>
+                  </div> -->
                </div>
                <!-- End Shop Item -->
                <!-- Shop Item -->
                <div class="col-md-3 col-lg-3 mb-40">
                   <div class="post-prev-img">
-                     <a style="cursor:pointer;"><img src="images/shop/shop-prev-4.jpg" alt="" /></a>
+                     <a style="cursor:pointer;"><img src="images/salaoboys/profissionais/028.jpg" style="height: 300px" alt="" /></a>
                   </div>
                   <div class="post-prev-title font-alt align-center">
                      <a style="cursor:pointer;">Higor</a>
                   </div>
-                  <div class="post-prev-text align-center mb-0">
+                 <!--  <div class="post-prev-text align-center mb-0">
                      <p style="text-align: justify !important;">
                        Especializado em cortes undercut e suas variações.
                      </p>
-                  </div>
+                  </div> -->
                </div>
                <!-- End Shop Item -->
             </div>
@@ -389,8 +416,8 @@
                 <div class="relative">
                     
                     <!-- Works Filter -->                    
-                    <div class="works-filter font-alt align-center">
-                        <a href="#" class="filter active section-title font-alt" data-filter="*">Galeria</a>
+                    <div class="font-alt align-center" style="margin-bottom: 30px;">
+                        <a href="#" class="active section-title font-alt" data-filter="*" style="padding-bottom: 20px;text-decoration: none;">Galeria</a>
                     </div>                    
                     <!-- End Works Filter -->
                     

@@ -345,7 +345,16 @@ Primary use:    MultiPurpose Template
 }
 
 @media only screen and (max-width: 767px) {
-	
+    
+    .salon-img {
+        width: 100%;
+        height: auto !important;
+    }
+    .salon-img-resposive {
+        height: 294px !important;
+        margin-bottom: 0 !important;
+    }
+
 	.hs-wrap {
         max-width: 320px;
 		padding-top: 27px;
